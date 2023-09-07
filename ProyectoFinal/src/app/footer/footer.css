@@ -1,0 +1,37 @@
+/* Estilos para la sección del pie de página */
+.container-fluid {
+  background-color: #000;
+  color: #fff;
+  padding: 20px 0;
+}
+
+/* Estilos para los títulos */
+h4 {
+  font-size: 18px;
+  color: #fff;
+}
+
+/* Estilos para los enlaces de redes sociales */
+.social-links .btn {
+  margin-right: 10px;
+  font-size: 15px;
+  border-radius: 60%;
+  width: 80px;
+  height: 80px;
+  line-height: 40px;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.social-links .btn:hover {
+  background-color: #007bff; /* Cambia el color al pasar el mouse */
+}
+
+/* Cambia el color de los botones de redes sociales */
+.btn-primary {
+  background-color: #007bff;
+}
+
+.btn-success {
+  background-color: #28a745;
+}

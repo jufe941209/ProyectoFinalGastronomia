@@ -1,0 +1,64 @@
+
+      
+header {
+    text-align: left;
+    padding-bottom: 30px;
+    
+    transition: all 0.5s;
+    z-index: 997;
+    height: 90px;
+    
+  }
+
+  navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Aumenta el tamaño del texto */
+.navbar-brand {
+  font-size: 24px; /* Ajusta el tamaño según tus preferencias */
+  font-weight: bold; /* Opcional: ajusta el peso de la fuente */
+}
+.nav-item {
+  margin-right: 20px; /* Espacio entre elementos */
+}
+
+/* Para el elemento con la clase "dropdown" */
+.navbar-nav .dropdown {
+  position: relative;
+}
+ 
+    img {
+    width: 40px;
+    height: auto; 
+  
+    margin-right: 100px;
+  }
+  
+ 
+  
+  .header .btn-book-a-table,
+  .header .btn-book-a-table:focus {
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #000000;
+    padding: 8px 20px;
+    margin-left: 30px;
+    border-radius: 50px;
+    transition: 0.1s;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .header .btn-book-a-table:hover,
+  .header .btn-book-a-table:focus:hover {
+    color: #ffffff;
+    background: rgba(0, 64, 76, 0.8);
+  }
+
+ 
+
+
+

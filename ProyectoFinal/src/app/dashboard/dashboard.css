@@ -1,0 +1,25 @@
+
+
+#dashboard {
+  margin-top: 50px; /* Ajusta el margen superior según tus necesidades */
+  margin-bottom: 50px; /* Ajusta el margen inferior según tus necesidades */
+  padding: 20px; /* Ajusta el relleno interior según tus necesidades */
+}
+
+
+  
+  h2 {
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  
+  p{
+    font-weight: 100;
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+ 
+  

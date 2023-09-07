@@ -1,0 +1,33 @@
+h3{
+  color:black;
+  text-align: center;
+}
+
+.img-fixed-size {
+  width: 150px; /* Puedes ajustar este valor según tus necesidades */
+  height: 300px; /* Puedes ajustar este valor según tus necesidades */
+  object-fit:cover; /* Controla cómo se ajusta la imagen en el contenedor */
+}
+
+.center-content {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+min-height: 20vh;
+}
+
+.card {
+  height: 700px; /* Ajusta la altura según tus necesidades */
+}
+.menu-img {
+  width: 350px; /* Ajusta el ancho deseado para las imágenes */
+  height: 350px; /* Ajusta la altura deseada para las imágenes */
+  object-fit: cover; /* Esto asegurará que la imagen se ajuste al tamaño especificado sin distorsionarse */
+}
+
+.menu-with-margin {
+  margin-top: 50px; /* Ajusta el margen superior según tus preferencias */
+  margin-bottom: 50px; /* Ajusta el margen inferior según tus preferencias */
+}
+
